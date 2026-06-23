@@ -8,6 +8,7 @@ public class FarmaisApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FarmaisApplication.class, args);
+		System.out.println("Api start port 8080");
 	}
 
 }
